@@ -1,3 +1,4 @@
-# SpringBoot Micro Service
+# Wallet Microservice
 
-Tech Used: Redis, Kafka, Hibernate, MySQL, SpringBoot, Spring Security
+1. Handles wallet creation.
+2. Connected to User Microservice via kafka consumer.

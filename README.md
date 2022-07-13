@@ -1,3 +1,5 @@
-# SpringBoot Micro Service
+# Transaction Micro Service
 
-Tech Used: Redis, Kafka, Hibernate, MySQL, SpringBoot, Spring Security
+
+1. Handles wallet funds transfer.
+2. Connected to Wallet & User Microservice via kafka producer/consumer.

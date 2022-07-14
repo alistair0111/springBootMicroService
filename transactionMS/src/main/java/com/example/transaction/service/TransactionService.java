@@ -52,10 +52,6 @@ public class TransactionService {
 
     public void updateTransaction(TransactionStatusMessage transactionStatusMessage) throws JsonProcessingException {
 
-        /**
-         * 1. post an update query in the repository for the DB
-         * 2. Get the transaction from DB and update the status and save it back
-         * */
 
         Transaction transaction=transactionRepository.findByTransactionId(transactionStatusMessage.getTransactionId());
         transaction.setStatus(transactionStatusMessage.getStatus());

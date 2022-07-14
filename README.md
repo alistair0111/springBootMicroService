@@ -1,3 +1,3 @@
-# SpringBoot Micro Service
+# Notification MicroService
 
-Tech Used: Redis, Kafka, Hibernate, MySQL, SpringBoot, Spring Security
+1. Microservice to handle notification to users on successful/failed transation

@@ -1,9 +1,9 @@
-package com.example.Transaction.controller;
+package com.example.transaction.controller;
 
-import com.example.Transaction.domain.Transaction;
-import com.example.Transaction.service.TransactionService;
-import com.example.Transaction.service.request.TransactionRequest;
-import com.example.Transaction.service.request.WalletUpdateRequest;
+import com.example.transaction.domain.Transaction;
+import com.example.transaction.service.TransactionService;
+import com.example.transaction.service.request.TransactionRequest;
+import com.example.transaction.service.request.WalletUpdateRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

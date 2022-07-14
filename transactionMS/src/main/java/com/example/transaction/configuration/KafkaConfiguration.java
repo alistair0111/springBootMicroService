@@ -1,4 +1,4 @@
-package com.example.Transaction.configuration;
+package com.example.transaction.configuration;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.producer.ProducerConfig;

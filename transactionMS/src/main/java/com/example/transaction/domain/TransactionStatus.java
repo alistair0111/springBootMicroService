@@ -1,4 +1,4 @@
-package com.example.Transaction.domain;
+package com.example.transaction.domain;
 
 public enum TransactionStatus {
     SUCCESS,FAILED,PENDING

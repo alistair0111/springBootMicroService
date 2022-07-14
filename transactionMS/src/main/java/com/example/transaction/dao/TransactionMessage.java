@@ -1,4 +1,4 @@
-package com.example.Transaction.dao;
+package com.example.transaction.dao;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

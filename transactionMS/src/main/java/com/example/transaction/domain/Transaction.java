@@ -1,4 +1,4 @@
-package com.example.Transaction.domain;
+package com.example.transaction.domain;
 
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;

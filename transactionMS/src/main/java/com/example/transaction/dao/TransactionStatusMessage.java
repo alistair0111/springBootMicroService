@@ -1,5 +1,5 @@
-package com.example.Transaction.dao;
-import com.example.Transaction.domain.TransactionStatus;
+package com.example.transaction.dao;
+import com.example.transaction.domain.TransactionStatus;
 import lombok.*;
 
 

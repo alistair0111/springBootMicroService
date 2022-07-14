@@ -1,7 +1,7 @@
-package com.example.Transaction.service.request;
+package com.example.transaction.service.request;
 
-import com.example.Transaction.domain.Transaction;
-import com.example.Transaction.domain.TransactionStatus;
+import com.example.transaction.domain.Transaction;
+import com.example.transaction.domain.TransactionStatus;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
